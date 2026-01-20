@@ -84,7 +84,7 @@ The notebook includes:
 The package is available on PyPI and can be installed using pip:
 
 ```bash
-pip install Topsis-Avneet-102303289
+pip install Topsis-Manya-102303254
 ```
 
 ### Usage
@@ -180,5 +180,6 @@ The package includes comprehensive validation:
 
 ### PyPI Package
 **Install from:** (https://pypi.org/project/Topsis-Manya-102303254/0.1/)
+
 
 
