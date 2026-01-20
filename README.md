@@ -3,7 +3,7 @@
 **Name:** Manya Garg 
 **Roll No:** 102303254 
 **Course:** Predictive Analytics  
-**Group:** 3C22
+
 
 ---
 
@@ -30,10 +30,8 @@ This project contains:
 
 ```
 ├── topsis.py                                    # Main Python implementation
-├── TOPSIS_Assignment_Avneet_102303289.ipynb    # Jupyter notebook with detailed steps
 ├── data.csv                                     # Input dataset
 ├── output.csv                                   # Results after TOPSIS
-├── Topsis-Avneet-102303289.zip                 # Package distribution
 └── README.md                                    # Documentation
 ```
 
@@ -182,3 +180,4 @@ The package includes comprehensive validation:
 
 ### PyPI Package
 **Install from:** (https://pypi.org/project/Topsis-Manya-102303254/0.1/)
+
