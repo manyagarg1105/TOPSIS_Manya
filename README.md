@@ -67,7 +67,7 @@ Data Collection → Data Pre-Processing → Weight Assignment → TOPSIS Calcula
 
 For a **detailed step-by-step implementation** with visualizations and explanations, refer to:
 
-**[TOPSIS_Assignment_Avneet_102303289.ipynb](./TOPSIS_Assignment_Avneet_102303289.ipynb)**
+**[TOPSIS_Assignment_Manya_102303254.ipynb](./TOPSIS_Assignment_Manya_102303254.ipynb)**
 
 The notebook includes:
 - Data loading and preprocessing
@@ -180,6 +180,7 @@ The package includes comprehensive validation:
 
 ### PyPI Package
 **Install from:** (https://pypi.org/project/Topsis-Manya-102303254/0.1/)
+
 
 
 
