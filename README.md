@@ -63,19 +63,7 @@ Data Collection → Data Pre-Processing → Weight Assignment → TOPSIS Calcula
 
 ---
 
-## Jupyter Notebook Implementation
 
-For a **detailed step-by-step implementation** with visualizations and explanations, refer to:
-
-**[TOPSIS_Assignment_Manya_102303254.ipynb](./TOPSIS_Assignment_Manya_102303254.ipynb)**
-
-The notebook includes:
-- Data loading and preprocessing
-- Mathematical formulas for each step
-- Visualization of results
-- Detailed explanation of the TOPSIS algorithm
-
----
 
 ## Command Line Tool Usage
 
@@ -183,6 +171,7 @@ The package includes comprehensive validation:
 
 ## Program 3: Web Service For Topsis
 [Live Demo](https://topsis-website-6wr5.vercel.app/)
+
 
 
 
